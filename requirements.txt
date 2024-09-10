@@ -7,7 +7,7 @@ seaborn
 # Deep learning framework
 torch
 torchvision
-torchaudio
+torchinfo
 
 # Image processing
 Pillow
