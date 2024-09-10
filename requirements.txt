@@ -1,0 +1,21 @@
+# Core dependencies
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep learning framework
+torch
+torchvision
+torchaudio
+
+# Image processing
+Pillow
+
+# Jupyter environment
+jupyter
+ipython
+
+# Utility libraries
+scikit-learn
+tqdm
