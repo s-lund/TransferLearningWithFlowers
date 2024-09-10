@@ -44,8 +44,8 @@ We use the [Flowers "Five Classes" dataset](https://www.kaggle.com/datasets/lara
 
 1. Clone this repository:
    ```
-   git clone https://github.com/s-lund/TransferLearningWithFlowers.git
-   cd TransferLearningWithFlowers
+   git clone https://github.com/s-lund/transfer-learning-with-flowers.git
+   cd transfer-learning-with-flowers
    ```
 
 2. Create a virtual environment and install dependencies:
